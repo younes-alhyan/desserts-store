@@ -45,12 +45,12 @@ export default function Card({ image, category, name, price, addToCart, cart }) 
             return { ...prevProduct, quantity: newQuantity };
         });
     };
-
+    let isOrdered = product.quantity !==0;
     return (
         <div className="card">
-            <div className={`image-container ${product.isInCart ? 'border' : ''}`}>
+            <div className={`image-container ${isOrdered ? 'border' : ''}`}>
                 <img src={image.desktop} alt={name} className='product-image' />
-                {product.isInCart ? (
+                {isOrdered ? (
                     <InCart product={product} increase={increase} decrease={decrease} />
                 ) : (
                     <CartButton addToCart={handleAddToCart} />
