@@ -16,7 +16,7 @@ function App() {
   useEffect(() => {
     async function fetchData() {
       try {
-        const basePath = process.env.NODE_ENV === 'development' ? '' : 'https://itachi-555.github.io/desserts-store';
+        const basePath = process.env.NODE_ENV === 'development' ? '' : 'https://younes-alhyan.github.io/desserts-store';
         const res = await fetch(`${basePath}/data.json`); // Adjust the path if necessary
         if (!res.ok) throw new Error('Network response was not ok');
         const result = await res.json();
