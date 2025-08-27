@@ -12,7 +12,7 @@ A React project to practice building a small desserts store interface.
 
 ## 💡 Solution
 
-[Solution Link](https://www.frontendmentor.io/solutions/desserts-store-using-react-SAhKHG9HGE) 
+[Solution Link](https://www.frontendmentor.io/solutions/desserts-store-using-react-SAhKHG9HGE)
 
 ## 🚀 Live Demo
 
@@ -21,6 +21,13 @@ A React project to practice building a small desserts store interface.
 ## 🔎 More
 
 [GitHub Repository](https://github.com/younes-alhyan/frontend-mentor/)
+
+## 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ## 🔥 Difficulty
 
