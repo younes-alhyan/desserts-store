@@ -1,4 +1,4 @@
-# 📁 Desserts Store
+# 📂 Desserts Store
 
 ![Hero Image](https://res.cloudinary.com/dz209s6jk/image/upload/v1720604598/Challenges/icnpqquxdp6kgnzm0vyp.jpg)
 
